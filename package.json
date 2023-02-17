@@ -28,11 +28,11 @@
     "extension:disable": "jupyter labextension disable jupyterlab-mp4"
   },
   "dependencies": {
-    "@jupyterlab/rendermime-interfaces": "^3.0.0",
-    "@lumino/widgets": "^1.30.0"
+    "@jupyterlab/rendermime-interfaces": ">3.0.0",
+    "@lumino/widgets": ">1.30.0"
   },
   "devDependencies": {
-    "rimraf": "^2.6.2",
-    "typescript": "~2.9.2"
+    "rimraf": ">2.6.2",
+    "typescript": ">2.9.2"
   }
 }
